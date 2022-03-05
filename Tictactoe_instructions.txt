@@ -1,4 +1,5 @@
 Instructions:
+You have to have Python installed!
 
 >Download all the files from the repository.
 
