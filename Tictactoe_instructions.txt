@@ -1,0 +1,68 @@
+Instructions:
+
+>Download all the files from the repository.
+
+	https://github.com/chtulur/Python-stuff
+	Code > Download ZIP
+
+> Unpack the zip to your desktop or wherever you want.
+
+> Open the folder. You should see 3 files with .py extensions
+
+> In your file explorer, delete the folder path name, and type in cmd
+	>example: C:\Users\molna\OneDrive\Asztali gép\Python-stuff-main
+	I put the folder on my desktop and this is the path
+	>Select this text and delete it.
+	>type this in: cmd
+	This will open up your terminal at the file's location since we opened cmd
+	(command prompt) up from the root folder.
+>In you cmd type in: python tictactoe.py
+>The game should run like this.
+   Let's start: (Y/n):
+
+
+Controls:
+
+	Whenever the game asks you to say YES or NO, you will see this: (Y/n)
+	>This means that if you type in 'n' and press enter, you have chosen NO
+	>Otherwise, anything else you type in before pressing enter, will be considered a YES
+
+	Tictactoe is played on a 3 by 3 grid. Your num pad will correspont to it.
+
+	Layout:
+
+		+---+---+---+
+		| 7 | 8 | 9 |
+		+---+---+---+
+		| 4 | 5 | 6 |
+		+---+---+---+
+		| 1 | 2 | 3 |
+		+---+---+---+
+
+	Please note that you won't see these numbers displayed. This is just an illustration of the
+	layout of player inputs.
+
+	e.g.: It's X's turn and the player presses 4
+
+	
+		+---+---+---+
+		|   |   |   |
+		+---+---+---+
+		| X |   |   |
+		+---+---+---+
+		|   |   |   |
+		+---+---+---+	
+
+	In response, their opponent presses 9
+
+		+---+---+---+
+		|   |   | O |
+		+---+---+---+
+		| X |   |   |
+		+---+---+---+
+		|   |   |   |
+		+---+---+---+	
+
+Etc.
+
+Enjoy!
